@@ -29,5 +29,4 @@ API endpoints
 - GET / -> health
 - GET /items/{item_id} -> returns a demo item (404 if id <= 0)
 - POST /items -> creates an item and returns it with a generated id
-# saughmcpdemo
-Sample repo to demo the GitHub MCP Server
+
